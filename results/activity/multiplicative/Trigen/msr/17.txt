@@ -1,0 +1,1 @@
+['bending1', 'bending2', 'cycling', 'lying', 'sitting', 'standing', 'walking'][7.857142857142857, 5.5, 'NaN', 'NaN', 'NaN', 'NaN', 'NaN'][0.6666666666666666, 0.4, 'NaN', 'NaN', 'NaN', 'NaN', 'NaN']
