@@ -1,3 +1,3 @@
 # Integrating Statistical Significance and Discriminative Power in Pattern Discovery
 
-Description: This repository contains the methods to extend δ-Trimax and TriGen to be able to evaluate statistical significance, discriminative power criteria, and redefine quality thresholds. We also provide a folder containing the results extracted by the modified versions of δ-Trimax and TriGen from three case studies.
+Description: This repository contains an extension to the δ-Trimax and TriGen triclustering algorithms to be able to jointly incorporate statistical significance, discriminative power criteria, and quality thresholds. We also provide a folder containing the results extracted by the modified versions of δ-Trimax and TriGen from three case studies.
